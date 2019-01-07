@@ -25,6 +25,7 @@
   1. Python资源大全中文版   https://github.com/jobbole/awesome-python-cn
   1. 前端技能汇总 https://github.com/JacksonTian/fks
   1. Python后端工程师必备技能  https://github.com/Skycrab/PythonEngineer
+  1. Docker — 从入门到实践 https://github.com/yeasy/docker_practice
 
 # 记录gitee star
 =========================
