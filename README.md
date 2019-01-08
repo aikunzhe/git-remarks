@@ -28,6 +28,7 @@
   1. Docker — 从入门到实践 https://github.com/yeasy/docker_practice
   1. 区块链技术指南 https://github.com/yeasy/blockchain_guide
   1. 《Go 学习笔记》《Python 3 学习笔记》 https://github.com/qyuhen/book
+  1. git的菜单  https://github.com/geeeeeeeeek/git-recipes
 # 记录gitee star
 =========================
 
