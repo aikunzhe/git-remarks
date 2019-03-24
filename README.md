@@ -31,7 +31,13 @@
   1. git的菜单  https://github.com/geeeeeeeeek/git-recipes
   
  -   laravel
-  1用户输入无害处（过滤危险字符) https://github.com/mewebstudio/Purifier  
+  1. 用户输入无害处（过滤危险字符) https://github.com/mewebstudio/Purifier  
+  
+ - vue类
+  1. vue表单验证 https://github.com/baianat/vee-validate
+  
+  
+  
   
   
 # 记录gitee star
